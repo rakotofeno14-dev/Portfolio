@@ -1,0 +1,118 @@
+body {background-color: #6369A7;
+  font-size: 30pt;
+  background: url("")no-repeat ;
+  object-fit: container;
+} 
+*{
+  margin: 0;
+  padding: 0;
+}
+nav{
+  text-align: center;
+  height: 20px;
+  padding: 20px;
+ }
+ #portfolio{
+   display: grid;
+   text-align:left ;
+   
+ }
+ li{
+   color: #3C352D;
+   
+  
+ }
+  body{
+    background-color: #87AEA1;
+    margin: 0;
+    padding: 0;
+  }
+  a{
+    color: #D5DCCF;
+    margin: 20px;
+    padding: 20px;
+  }
+h2{
+  text-decoration: underline;
+  color: #268897;
+  margin: 20px;
+}
+.pop{
+  font-family: 'Times New Roman', Times, serif;
+  color: #3C352D;
+  margin: 10px;
+  padding: 10px;
+  gap: 20px;
+  width: 100%;
+}
+#pp{
+  font-style: italic;
+  margin: 20px;
+  padding: 10px;
+  color: #268897;
+}
+.ok{
+  text-decoration: underline;
+  margin: 20px;
+  padding: 30px;
+}
+#ko{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  padding: 30px;
+}
+.contact{
+ color:  #21908F;
+ margin: 20px;
+ padding: 10px;
+}
+.p{
+  width: 100%;
+}
+#cont{
+  border-radius: 25px;
+  background-color: #DDAD79;
+  margin: 10px;
+  padding: 20px;
+
+}
+.name,.phone,.gmail{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: underline;
+}
+p{
+  font-size: 'Times New Roman', Times, serif;
+}
+a {
+  font-weight: red;
+  display: flexbox;
+  background-color: #6E9C4F solid;
+  border: 2px solid #A1A5BAFA;
+  border-radius: 20%;
+  color: #CB4A4A;
+  text-decoration: none;
+  background-color: #232328;
+  padding: 10px;
+}
+.retrot{
+  border-radius: 10px;
+}
+#ordonne{
+  margin: 10px;
+  padding: 30px;
+}
+.id{
+  font-family: 'Times New Roman', Times, serif;
+}
+.rett{
+  padding: 50px;
+}
+#bot-submit{
+  width: 90px;
+  color: #302323;
+  background-color: #E9AEAE;
+  border-radius: 5%;
+  transform: scale(2.0);
+  margin-top: 10px;
+}
