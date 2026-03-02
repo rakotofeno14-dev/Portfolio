@@ -18,12 +18,12 @@ nav{
    
  }
  li{
-   color: #3C352D;
+   color:#CCCEE1 ;
    
   
  }
   body{
-    background-color: #87AEA1;
+    background-color: #1E2120;
     margin: 0;
     padding: 0;
   }
@@ -34,12 +34,12 @@ nav{
   }
 h2{
   text-decoration: underline;
-  color: #268897;
+  color: #15D8F6;
   margin: 20px;
 }
 .pop{
   font-family: 'Times New Roman', Times, serif;
-  color: #3C352D;
+  color: #F2F0ED;
   margin: 10px;
   padding: 10px;
   gap: 20px;
@@ -90,7 +90,7 @@ a {
   background-color: #6E9C4F solid;
   border: 2px solid #A1A5BAFA;
   border-radius: 20%;
-  color: #CB4A4A;
+  color: #76E7D7;
   text-decoration: none;
   background-color: #474246;
   padding: 10px;
@@ -99,18 +99,20 @@ a {
   border-radius: 10px;
 }
 #ordonne{
+  color: #F8EFEF;
   margin: 10px;
   padding: 30px;
 }
 .id{
   font-family: 'Times New Roman', Times, serif;
+  color: #E4EEEB;
 }
 .rett{
   padding: 50px;
 }
 #bot-submit{
   width: 90px;
-  color: #302323;
+  color: #FFFFFF;
   background-color: #E9AEAE;
   border-radius: 5%;
   transform: scale(2.0);
@@ -129,4 +131,13 @@ a {
 .feno{
   width: 560px;
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text{
+  color: #F6EFEF;
+  font-family: 'Times New Roman', Times, serif;
+}
+.conn{
+  border: 0;
+  background-color: 0;
+  border-radius: 0;
 }
