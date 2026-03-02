@@ -124,6 +124,8 @@ a {
   margin: 30px ;
   padding: 10px
   ;
+  border: none;
+  background: none;
 }
 .info{
   font-family: 'Times New Roman', Times, serif;
