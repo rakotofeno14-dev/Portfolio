@@ -71,8 +71,9 @@ h2{
   width: 100%;
 }
 #cont{
+font-family: 'Times New Roman', Times, serif;
   border-radius: 25px;
-  background-color: #DDAD79;
+  background-color: #394254;
   margin: 10px;
   padding: 20px;
 
